@@ -21,6 +21,7 @@ public class ProgramaDeRecuperacion {
                 
         java.util.Scanner teclado = new Scanner(System.in)) {
             System.out.println("=== SISTEMA DE NOTAS===");
+            
             // 2. Pedir el nombre del estudiante
             System.out.print("Escribe el nombre del estudiante : ");
             String nombre = teclado.nextLine();
