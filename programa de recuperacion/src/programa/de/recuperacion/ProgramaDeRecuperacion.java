@@ -24,7 +24,7 @@ public class ProgramaDeRecuperacion {
             System.out.print("Escribe el nombre del estudiante : ");
             String nombre = teclado.nextLine();
             // 3. Pedir las tres notas
-            System.out.print("Introduce la primera nota (0 a 10): ");
+            System.out.print("Ingrese la primera nota (0 a 10): ");
             double nota1 = teclado.nextDouble();
             System.out.print("Introduce la segunda nota (0 a 10): ");
             double nota2 = teclado.nextDouble();
