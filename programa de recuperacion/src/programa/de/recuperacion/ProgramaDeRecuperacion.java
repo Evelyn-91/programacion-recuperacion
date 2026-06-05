@@ -23,6 +23,7 @@ public class ProgramaDeRecuperacion {
             System.out.println("=== SISTEMA DE NOTAS===");
             
             // 2. Pedir el nombre del estudiante
+            
             System.out.print("Escribe el nombre del estudiante : ");
             String nombre = teclado.nextLine();
             // 3. Pedir las tres notas
