@@ -18,6 +18,7 @@ public class ProgramaDeRecuperacion {
     public static void main(String[] args) {
         
         try ( // codigo paracalcular notas
+                
         java.util.Scanner teclado = new Scanner(System.in)) {
             System.out.println("=== SISTEMA DE NOTAS===");
             // 2. Pedir el nombre del estudiante
