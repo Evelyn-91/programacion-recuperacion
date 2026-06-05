@@ -30,7 +30,7 @@ public class ProgramaDeRecuperacion {
             double nota2 = teclado.nextDouble();
             System.out.print("Ingrese la tercera nota  del 0 a 10): ");
             double nota3 = teclado.nextDouble();
-            // 4. Calcular el promedio matemático
+            // 4. Calcular el promedio de las tres notas
             double promedio = (nota1 + nota2 + nota3) / 3;
             // 5. Mostrar los resultados finales en pantalla
             System.out.println("\n--- RESULTADOS PARA: " + nombre.toUpperCase() + " ---");
