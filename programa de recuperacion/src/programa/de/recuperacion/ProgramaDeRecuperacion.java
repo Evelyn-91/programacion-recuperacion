@@ -37,7 +37,7 @@ public class ProgramaDeRecuperacion {
             System.out.printf("El promedio del estudiante es : %.2f\n", promedio);
             // 6. Condidion para saber si aprobó o reprobo
             if (promedio >= 7.0) {
-                System.out.println("Estado: APROBADO ");
+                System.out.println("Estado: APROBADO. Felicidades tiene vacaciones ");
             } else {
                 System.out.println("Estado: REPROBADO. Necesitas estudiar más.");
             }
