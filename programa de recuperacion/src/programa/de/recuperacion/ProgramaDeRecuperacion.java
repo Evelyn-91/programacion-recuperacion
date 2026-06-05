@@ -16,6 +16,7 @@ public class ProgramaDeRecuperacion {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
         try ( // codigo paracalcular notas
         java.util.Scanner teclado = new Scanner(System.in)) {
             System.out.println("=== SISTEMA DE NOTAS INTERACTIVO ===");
