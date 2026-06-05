@@ -41,7 +41,7 @@ public class ProgramaDeRecuperacion {
             } else {
                 System.out.println("Estado: REPROBADO. Debes esforzarte mas ");
             }
-            // Cerrar el escáner al terminar
+            // salida
         }
     }
 }
