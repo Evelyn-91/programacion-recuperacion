@@ -39,7 +39,7 @@ public class ProgramaDeRecuperacion {
             if (promedio >= 7.0) {
                 System.out.println("Estado: APROBADO. Felicidades tiene vacaciones ");
             } else {
-                System.out.println("Estado: REPROBADO. Debes esforzarte mas.");
+                System.out.println("Estado: REPROBADO. Debes esforzarte mas ");
             }
             // Cerrar el escáner al terminar
         }
